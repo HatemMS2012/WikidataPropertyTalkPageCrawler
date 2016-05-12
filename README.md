@@ -12,4 +12,5 @@ The extracted metadata are the following:
 - Allowed values: the values that the property can take, i.e., the types of the object of the property
 - Example: examples shwoing facts using that property
 
-The extracted metadata are stored in text file.
+The extracted metadata are stored in text file. 
+We used the crawler to extract the metadata for a [sample](input/Full_Prop_List.txt) of properties. The results can be found in [prop_talk_metadata.txt](output/prop_talk_metadata.txt).
