@@ -1,6 +1,8 @@
 # WikidataPropertyTalkPageCrawler
 
 This simple prgoram is used to extract metadata about [Wikidata](https://www.wikidata.org) properties from the corresponding talk pages.
+For an example of a talk page, take a look on the talk page of the property ["educated at"](https://www.wikidata.org/wiki/Property_talk:P69).
+
 The extracted metadata are the following:
 
 - Description: a short description of the property
